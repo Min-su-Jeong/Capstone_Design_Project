@@ -51,3 +51,8 @@
 > - 발표 날짜/시간 : 2023.04.11(화) / 19:00 ~ 20:00
 > - 발표 내용 : 주제 안내, 주요 개발 내용, 전체 시스템 구조, 디자인, Use Case, 변경사항, 개발일정 등
 > - 자세한 내용은 repository에 첨부된 『[Presentation/발표자료(상세 설계).pptx](https://github.com/Min-su-Jeong/Capstone_Design_Project/tree/main/Presentation)』 파일 참조
+
+#### 5. 중간 결과 보고1 회의✔
+- 회의 날짜/시간 : 2023.05.03(수) / 20:00 ~ 22:00
+- 회의 내용 : 개발 진행 상황, 개발 상황 자료 및 내용 공유 등 
+- 자세한 내용은 repository에 첨부된 『[Meeting Notes/회의록(중간 개발 보고1).hwp](https://github.com/Min-su-Jeong/Capstone_Design_Project/tree/main/Meeting%20Notes)』 파일 참조
