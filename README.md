@@ -56,3 +56,13 @@
 - 회의 날짜/시간 : 2023.05.03(수) / 20:00 ~ 22:00
 - 회의 내용 : 개발 진행 상황, 개발 상황 자료 및 내용 공유 등 
 - 자세한 내용은 repository에 첨부된 『[Meeting Notes/회의록(중간 개발 보고1).hwp](https://github.com/Min-su-Jeong/Capstone_Design_Project/tree/main/Meeting%20Notes)』 파일 참조
+
+> #### 5-1. 중간 결과 보고2 회의✔
+> - 회의 날짜/시간 : 2023.05.08(월) / 21:00 ~ 23:00
+> - 회의 내용 : 현재 개발 진행 상황 보고를 위한 준비, 데모 준비 등
+> - 자세한 내용은 repository에 첨부된 『[Meeting Notes/회의록(중간 개발 보고2).hwp](https://github.com/Min-su-Jeong/Capstone_Design_Project/tree/main/Meeting%20Notes)』 파일 참조
+
+> #### 5-2. 중간 결과 보고 미팅 및 피드백✔
+> - 미팅 날짜/시간 : 2023.05.11(목) / 16:00 ~ 17:00
+> - 미팅 내용 : 중간 개발 결과 발표 및 피드백, 향후 개발 계획 등
+> - 자세한 내용은 repository에 첨부된 『[Presentation/발표자료(중간 결과 보고).pptx](https://github.com/Min-su-Jeong/Capstone_Design_Project/tree/main/Presentation)』 파일 참조
