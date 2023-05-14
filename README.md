@@ -65,4 +65,4 @@
 > #### 5-2. 중간 결과 보고 미팅 및 피드백✔
 > - 미팅 날짜/시간 : 2023.05.11(목) / 16:00 ~ 17:00
 > - 미팅 내용 : 중간 개발 결과 발표 및 피드백, 향후 개발 계획 등
-> - 자세한 내용은 repository에 첨부된 『[Presentation/발표자료(중간 결과 보고).pptx](https://github.com/Min-su-Jeong/Capstone_Design_Project/tree/main/Presentation)』 파일 참조
+> - 자세한 내용은 repository에 첨부된 『[Presentation/발표자료(중간 개발 보고).pptx](https://github.com/Min-su-Jeong/Capstone_Design_Project/tree/main/Presentation)』 파일 참조
