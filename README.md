@@ -3,7 +3,21 @@
 
 <br/>
 
-<h1>Conceptual Design</h1>
+<h1>Team & Dev Code</h1>
+
+- 정민수 : AI Dev / Jupyter / [Github](https://github.com/Min-su-Jeong/Capstone_Design_Project)  
+- 안정환 : Frontend / Android Studio / [Github](https://github.com/JungHwanAhn/Jeju)  
+- 조시완 : Backend / Spring Boot, H2 / [Github](https://github.com/Singe00/CrtDgn)  
+
+<br/>
+
+<h1>User's Manual</h1>
+
+[사용자 메뉴얼 보기](https://github.com/Min-su-Jeong/Capstone_Design_Project/files/11782152/default.pdf)
+
+<br/>
+
+<h1>History</h1>
 
 #### 1. 프로젝트 주제 아이디어 회의✔
 - 회의 날짜/시간 : 2023.03.05(일) / 21:00 ~ 23:00
@@ -76,3 +90,12 @@
 - 회의 날짜/시간 : 2023.05.25(목) / 22:00 ~ 23:00
 - 회의 내용 : 개발 진행 상황 검토, 기술 스택별 개발 계획 수립 등 
 - 자세한 내용은 repository에 첨부된 『[Meeting Notes/회의록(최종 개발 보고1).hwp](https://github.com/Min-su-Jeong/Capstone_Design_Project/tree/main/Meeting%20Notes)』 파일 참조
+
+> #### 6-1. 최종 개발 보고2 회의✔
+> - 회의 날짜/시간 : 2023.06.10(토) / 21:00 ~ 23:00
+> - 회의 내용 : 개발 진행 상황 검토, 미팅 준비, 최종자료 정리 등
+> - 자세한 내용은 repository에 첨부된 『[Meeting Notes/회의록(최종 개발 보고2).hwp](https://github.com/Min-su-Jeong/Capstone_Design_Project/tree/main/Meeting%20Notes)』 파일 참조
+
+> #### 6-2. 최종 개발 보고 미팅 및 피드백✔
+> - 미팅 날짜/시간 : 2023.06.13(화) / 15:30 ~ 16:00
+> - 미팅 내용 : 개발 진행 상황 보고 및 기능 관련 피드백, 버그 수정 등
