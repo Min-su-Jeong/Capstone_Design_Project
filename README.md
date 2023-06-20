@@ -1,5 +1,6 @@
 # Capstone_Design_Project
-창의설계프로젝트 개발을 위한 Repository 입니다.
+- AI 기반의 제주도 교통량 예측 및 관광지 추천 애플리케이션 개발  
+  (Jeju Island traffic forecasting and tourist destination recommendation application based on AI)
 
 <br/>
 
@@ -99,3 +100,8 @@
 > #### 6-2. 최종 개발 보고 미팅 및 피드백✔
 > - 미팅 날짜/시간 : 2023.06.13(화) / 15:30 ~ 16:00
 > - 미팅 내용 : 개발 진행 상황 보고 및 기능 관련 피드백, 버그 수정 등
+
+#### 7. 최종 보고서 제출 및 최종 발표✔
+- 발표 날짜/시간 : 2023.06.20(화) / 18:00 ~ 18:30
+- 발표 내용 : 개발목표 및 내용, 개발일정 및 역할분담, 수정사항, 최종 시연, 활용방안, 후기 등
+- 자세한 내용은 repository에 첨부된 『[Presentation/발표자료(최종 발표).pptx](https://github.com/Min-su-Jeong/Capstone_Design_Project/tree/main/Presentation)』 파일 참조
