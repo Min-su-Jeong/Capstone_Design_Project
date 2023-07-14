@@ -14,7 +14,57 @@
 
 <h1>User's Manual</h1>
 
-[사용자 메뉴얼 보기](https://github.com/Min-su-Jeong/Capstone_Design_Project/files/11782152/default.pdf)
+[사용자 메뉴얼](https://github.com/Min-su-Jeong/Capstone_Design_Project/files/11782152/default.pdf)
+
+<br/>
+
+<h1>Development</h1>
+
+> 버전
+  - python : 3.7.13
+  - numpy : 1.21.6
+  - pandas : 1.3.5
+  - scikit-learn : 1.0.2
+  - xgboost : 1.6.2
+  - lightgbm : 3.3.3
+  - joblib : 1.2.0
+  - scipy : 1.7.3
+  - folium : 0.14.0
+
+<br/>
+
+> 시스템 구성도
+  <p align="left">
+    <img src="https://github.com/Min-su-Jeong/Capstone_Design_Project/assets/74342121/0e06bb8c-49f0-4a6d-9efd-1090654b1ba7" width="460" height="400">
+  </p>
+
+<br/>
+
+> 주요 기능
+  <p align="left">
+    <img src="https://github.com/Min-su-Jeong/Capstone_Design_Project/assets/74342121/270dac61-f24d-46e3-baf0-1ca337518df0" width="650" height="350">
+  </p>
+  <br/>
+  <p align="left">
+    <img src="https://github.com/Min-su-Jeong/Capstone_Design_Project/assets/74342121/3b971bea-d3c5-4b7d-81ec-41f9b4fd32c6" width="650" height="350">
+  </p>
+
+<br/>
+
+> 예측 결과
+
+  | Prediction Model | MAE | Accuracy |
+  |:---------:|:---:|:--------:|
+  | RandomForest | 3.25 | 91.4% |
+  | XGBoost | 3.88 | 88.9% |
+  | LightGBM | 4.82 | 84.1% |
+
+<br/>
+
+<h1>Paper</h1>
+
+- [Paper link](https://github.com/Min-su-Jeong/Capstone_Design_Project/files/12045661/default.pdf)
+- 2023 한국정보기술학회(KIIT) 하계 종합학술대회 논문집 등재 예정
 
 <br/>
 
