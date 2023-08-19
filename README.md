@@ -62,9 +62,8 @@
 <br/>
 
 <h1>Paper</h1>
-
-- [Paper link](https://github.com/Min-su-Jeong/Capstone_Design_Project/files/12045661/default.pdf)
-- 2023 한국정보기술학회(KIIT) 하계 종합학술대회 논문집 등재 예정
+- M. Jeong, J. Ahn, S. Jo, B. Oh and H. Ahn, "AI-based Jeju Island Traffic Volume Forecasting and Tourist Attraction Recommendation System", Proc. Of Korean Institute of Information Technology Conference, pp.793-796, Jun. 2023.
+- [Paper link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11485609)
 
 <br/>
 
