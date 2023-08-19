@@ -62,6 +62,7 @@
 <br/>
 
 <h1>Paper</h1>
+
 - M. Jeong, J. Ahn, S. Jo, B. Oh and H. Ahn, "AI-based Jeju Island Traffic Volume Forecasting and Tourist Attraction Recommendation System", Proc. Of Korean Institute of Information Technology Conference, pp.793-796, Jun. 2023.
 - [Paper link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11485609)
 
